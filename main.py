@@ -2,7 +2,7 @@ import time
 import schedule
 import requests
 
-BOT_TOKEN = 8777724163:AAEPlhvjqyjvQ1HS3BfmkFkjCO-LE3Rylb8
+BOT_TOKEN = "8777724163:AAEPlhvjqyjvQ1HS3BfmkFkjCO-LE3Rylb8"
 CHAT_ID = "5985354863"
 
 LOGIN_URL = "https://dms.qistas.com/dmz/datagathering/lawnews/autotasks"
